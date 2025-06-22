@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Santiago Martinez Vallejo</h1>
-<h3 align="center">A passionate fullstack developer from México.</h3>
+<h3 align="center">Software engineer from México.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santiagomtz25&label=Profile%20views&color=0e75b6&style=flat" alt="santiagomtz25" /> </p>
 
-- 🔭 I’m currently working on **a university webpage refactor.**
+- 🔭 I’m currently working on **a personal budget app with Next.js and Spring Boot.**
 
-- 🌱 I’m currently learning **Java, and Spring Boot**
+- 🌱 I’m currently learning **Linux: Files and Persmissions**
 
-- 👯 I’m looking to collaborate on **web projects or startups.**
-
-- 🤝 I’m looking for help with **Java**
-
-- 💬 Ask me about **JavaScript, React, Node.js**
+- 💬 Ask me about **JavaScript/TypeScript**
 
 - ⚡ Fun fact **I'm a musician too**
 
